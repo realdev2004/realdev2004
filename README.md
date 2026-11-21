@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  Data Analyst with a Mechanical Engineering background and 2 years of experience in the automotive industry. Skilled in SQL, Microsoft Excel, Power BI, and Python, with hands-on experience in data cleaning, transformation, exploratory data analysis, and interactive dashboard development. Passionate about transforming raw data into meaningful insights and supporting data-driven business decisions.
+  Data Analyst with a Electronics background and 2 years of experience in the automotive industry. Skilled in SQL, Microsoft Excel, Power BI, and Python, with hands-on experience in data cleaning, transformation, exploratory data analysis, and interactive dashboard development. Passionate about transforming raw data into meaningful insights and supporting data-driven business decisions.
 </p>
 
 ---
